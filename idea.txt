@@ -1,0 +1,20 @@
+A website/app/game designed to help keep you on track for your studies without being burned out or losing focus. Great for people with ADHD or people who just aren’t good at focusing!
+
+When you create an account (?), each day you’ll be given the opportunity to make a list.  The list will be ranked by importance, and they program will let you choose which task you want to work on first. Then, it'll ask you how much time it'll take. It then sets a timer for that much time, and once it's done it'll ask you if you need more time and adjust accordingly. For each task you finish, you'll gain a certain number of coins (maybe 10 coins for every 10 minutes that you work?). With these coins, you can buy "downtime". There will always be three downtime options, some longer than others (like play videogames for 10 minutes, watch an episode on Netflix, etc). 
+
+For every half an hour, you earn 10 coins
+
+Once you finish a task, you will receive a list of 3 fun activities to choose from
+
+One will be worth 10 coins, and will be a 5 to 10 minute activity
+
+One will be worth 20 coins, and will be a half an hour activity
+
+One will be worth 40 coins, and will be an hour activity
+
+
+- making a task list 
+- make a downtime list - 
+- timer - npande88
+- currency system - delphinidae99/emm mccee
+- visuals

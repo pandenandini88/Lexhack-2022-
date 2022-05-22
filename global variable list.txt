@@ -1,0 +1,5 @@
+task_list
+total_coins
+downtime_list10, 20, 40
+
+task_length

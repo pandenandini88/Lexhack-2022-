@@ -1,0 +1,20 @@
+10 min downtime:
+   coins - 10
+   clear buttons
+   countdown 10 min
+
+30 min downtime:
+   coins - 20
+   clear buttons
+   countdown 30 min
+
+1hr downtime
+   coins - 40
+   clear buttons
+   countdown 60 min
+
+downtime
+   find options
+  button - calls 10 min downtime
+  button - calls 30 min downtime
+   button - calls 60 min downtime

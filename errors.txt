@@ -1,0 +1,19 @@
+List of errors we need to work on:
+
+1. button disablng if the user doesn't have enough coins (SOLVED)
+
+2. audio
+
+3. extra time
+
+4. buttons
+
+List of things we need to add:
+
+1. loop that finishes all the tasks
+
+2. aesthetic vibe
+
+3. login would be nice 
+
+
